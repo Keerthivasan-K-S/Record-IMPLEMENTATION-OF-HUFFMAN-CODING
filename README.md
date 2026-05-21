@@ -80,7 +80,7 @@ for char, code in huffman_codes.items():
 ## Output:
 
 ### Print the characters and its huffmancode>
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/6f08ce86-d397-4e55-b858-bbe538c58b10" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/7c15fd44-3f91-45c1-b520-c49feb78d426" />
 
 
 
